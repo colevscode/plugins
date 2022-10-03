@@ -1,5 +1,18 @@
 # Changelog
 
+## [6.47.0](https://github.com/netlify/plugins/compare/v6.46.0...v6.47.0) (2022-10-03)
+
+
+### Features
+
+* added synchronization from CMS to repo ([#849](https://github.com/netlify/plugins/issues/849)) ([8872a09](https://github.com/netlify/plugins/commit/8872a097f59d9c502ef05856ba275ea0f672423e))
+* update plugin @netlify/plugin-lighthouse to version 3.5.0 ([#850](https://github.com/netlify/plugins/issues/850)) ([f4b4f47](https://github.com/netlify/plugins/commit/f4b4f47f5f0434bd932c1ff3cbdad3fc11ddf163))
+* update plugin @netlify/plugin-lighthouse to version 3.6.0 ([#851](https://github.com/netlify/plugins/issues/851)) ([7450749](https://github.com/netlify/plugins/commit/7450749a3b48f31dc3d2d661384d490818abd02c))
+* update plugin @netlify/plugin-lighthouse to version 3.7.0 ([#853](https://github.com/netlify/plugins/issues/853)) ([58e7564](https://github.com/netlify/plugins/commit/58e7564d775f7ed5b517237f0a46d425778b0d09))
+* update plugin @netlify/plugin-nextjs to version 4.23.2 ([#845](https://github.com/netlify/plugins/issues/845)) ([0881aa9](https://github.com/netlify/plugins/commit/0881aa9f0e0205123d95086c1ecaa75c34bb6cea))
+* update plugin @netlify/plugin-nextjs to version 4.23.3 ([#847](https://github.com/netlify/plugins/issues/847)) ([11b73ce](https://github.com/netlify/plugins/commit/11b73ce360e62ef31a0f3b15e6ab603d02d47d31))
+* update version of Cecil cache ([#854](https://github.com/netlify/plugins/issues/854)) ([12557d8](https://github.com/netlify/plugins/commit/12557d875ea143a04a8d454429f1bef50d998db6))
+
 ## [6.46.0](https://github.com/netlify/plugins/compare/v6.45.0...v6.46.0) (2022-09-21)
 
 
